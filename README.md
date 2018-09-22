@@ -41,9 +41,9 @@ pickle.loadするとpythonのdict型になり、構造は以下のようにな�
 ```python
 """
 {
-000000000:["emoji_1230.png","emoji_0453.png", ...],
+'000000000':["emoji_1230.png","emoji_0453.png", ...],
 ...
-255255255:["_white.png", "emoji_0453.png", ...]
+'255255255':["_white.png", "emoji_0453.png", ...]
 }
 """
 ```
