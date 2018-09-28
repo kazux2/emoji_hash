@@ -6,7 +6,7 @@
 ```python
 import pickle
 
-pickled_hash = 'twemoji/hash_step20_type_top10_emojis.pickle'
+pickled_hash = 'twemoji/hash/alpha/step20_type_top10_emojis.pickle'
 with open(pickled_hash, 'rb') as f:
     hash_dict = pickle.load(f)
 

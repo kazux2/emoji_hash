@@ -1,10 +1,16 @@
 
 .idea
 
-notomoji/hash_step5_type_all_emojis.pickle
-notomoji/hash_step10_type_all_emojis.pickle
-notomoji/hash_step20_type_all_emojis.pickle
+notomoji/hash/whiten/step5_type_all_emojis.pickle
+notomoji/hash/whiten/step10_type_all_emojis.pickle
+notomoji/hash/whiten/step20_type_all_emojis.pickle
+notomoji/hash/alpha/step5_type_all_emojis.pickle
+notomoji/hash/alpha/step10_type_all_emojis.pickle
+notomoji/hash/alpha/step20_type_all_emojis.pickle
 
-twemoji/hash_step5_type_all_emojis.pickle
-twemoji/hash_step10_type_all_emojis.pickle
-twemoji/hash_step20_type_all_emojis.pickle
+twemoji/hash/whiten/step5_type_all_emojis.pickle
+twemoji/hash/whiten/step10_type_all_emojis.pickle
+twemoji/hash/whiten/step20_type_all_emojis.pickle
+twemoji/hash/alpha/step5_type_all_emojis.pickle
+twemoji/hash/alpha/step10_type_all_emojis.pickle
+twemoji/hash/alpha/step20_type_all_emojis.pickle
